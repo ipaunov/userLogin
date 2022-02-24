@@ -1,0 +1,7 @@
+C:\Users\I544941\source\repos\UserLogin\UserLogin\bin\Debug\UserLogin.exe.config
+C:\Users\I544941\source\repos\UserLogin\UserLogin\bin\Debug\UserLogin.exe
+C:\Users\I544941\source\repos\UserLogin\UserLogin\bin\Debug\UserLogin.pdb
+C:\Users\I544941\source\repos\UserLogin\UserLogin\obj\Debug\UserLogin.csproj.AssemblyReference.cache
+C:\Users\I544941\source\repos\UserLogin\UserLogin\obj\Debug\UserLogin.csproj.CoreCompileInputs.cache
+C:\Users\I544941\source\repos\UserLogin\UserLogin\obj\Debug\UserLogin.exe
+C:\Users\I544941\source\repos\UserLogin\UserLogin\obj\Debug\UserLogin.pdb
